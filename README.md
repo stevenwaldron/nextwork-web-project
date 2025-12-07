@@ -55,11 +55,9 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Steven Waldron - [stevenwaldron7777@gmail.com](mailto:stevenwaldron7777@gmail.com)
+Steven Waldron - [Your Email](mailto:stevenwaldron7777@gmail.com)
 
 <br>
-
-- [LinkedIn](www.linkedin.com/in/steven-waldron-088610110)
 
 ## Conclusion
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects.
