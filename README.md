@@ -25,6 +25,7 @@ Here’s what I’m using for this project:
 
 - **Amazon EC2**: I'm developing my web app on Amazon EC2 virtual servers, so that software development and deployment happens entirely on the cloud.
 - **VS Code**: For my IDE, I chose Visual Studio Code. It connects directly to my development EC2 instance, making it easy to edit code and manage files in the cloud.
+- Key pairs, SSH connections, Git, Maven and Java.
 - **GitHub**: All my web app code is stored and versioned in this GitHub repository.
 - **[COMING SOON] AWS CodeArtifact**: Once it's rolled out, CodeArtifact will store my artifacts and dependencies, which is great for high availability and speeding up my project's build process.
 - **[COMING SOON] AWS CodeBuild**: Once it's rolled out, CodeBuild will take over my build process. It'll compile the source code, run tests, and produce ready-to-deploy software packages automatically.
@@ -54,9 +55,11 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Steven Waldron - [Your Email](mailto:stevenwaldron7777@gmail.com)
+Steven Waldron - [stevenwaldron7777@gmail.com](mailto:stevenwaldron7777@gmail.com)
 
 <br>
+
+- [LinkedIn](www.linkedin.com/in/steven-waldron-088610110)
 
 ## Conclusion
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects.
