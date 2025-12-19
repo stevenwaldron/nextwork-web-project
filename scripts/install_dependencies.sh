@@ -13,3 +13,4 @@ sudo cat << EOF > /etc/httpd/conf.d/tomcat_manager.conf
 </VirtualHost>
 EOF
 
+#text#
